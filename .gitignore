@@ -1,0 +1,36 @@
+# Data files (too large for GitHub)
+data/mpi_inf_3dhp/
+data/h36m/
+data/norm_stats*.npz
+
+# Model checkpoints
+checkpoints/
+
+# Generated results
+results/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# VideoPose3D clone
+VideoPose3D/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
